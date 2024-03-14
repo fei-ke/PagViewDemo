@@ -29,5 +29,12 @@ android {
 }
 
 dependencies {
+    //crash
     implementation 'com.tencent.tav:libpag:4.3.47'
+
+    //crash
+    //implementation 'com.tencent.tav:libpag:4.2.80'
+
+    //正常
+    //implementation 'com.tencent.tav:libpag:4.2.55'
 }
